@@ -11,6 +11,8 @@ requests = "*"
 beautifulsoup4 = "*"
 pandas = "*"
 scrapy = "*"
+requests-html = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.7"
